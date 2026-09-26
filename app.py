@@ -40,7 +40,7 @@ LINE_PAY_API = "https://sandbox-api-pay.line.me"
 
 # ต้องเป็น URL จริงที่ deploy แอปนี้ไว้ (ต้องเป็น https เท่านั้น LINE Pay ไม่รับ localhost)
 # เช่น "https://your-app-name.streamlit.app"
-APP_URL = "https://your-app-name.streamlit.app"
+APP_URL = "https://vending-machine-crgb92udi3zrj5uwefay4k.streamlit.app"
 
 STYLE = """
 <style>
